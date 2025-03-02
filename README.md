@@ -1,4 +1,5 @@
 # Python FizzBuzz
+<!-- Work in progress OMatesh -->
 
 This segment is intended to be used to teach how to use the Python debugger along with Pytest.
 
@@ -33,7 +34,7 @@ $ pytest
 
 `fizzbuzz` is a function which returns the string representation of numbers from 1 to n.
 
-But for multiples of three it should output “Fizz” instead of the number and for the multiples of five output “Buzz”. For numbers which are multiples of both three and five output “FizzBuzz”.
+But for multiples of three it should output "Fizz" instead of the number and for the multiples of five output "Buzz". For numbers which are multiples of both three and five output "FizzBuzz".
 
 **Example:**
 
